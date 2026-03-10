@@ -1,0 +1,147 @@
+2026-03-10 19:52:09,795 - __main__ - INFO - Запуск бота...
+2026-03-10 19:52:09,832 - __main__ - INFO - База данных инициализирована.
+2026-03-10 19:52:13,487 - __main__ - INFO - Polling запущен.
+2026-03-10 19:52:13,488 - aiogram.dispatcher - INFO - Start polling
+2026-03-10 19:52:13,842 - aiogram.dispatcher - INFO - Run polling for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 19:53:02,947 - aiogram.event - INFO - Update id=17225342 is handled. Duration 904 ms by bot id=8657418981
+2026-03-10 19:53:11,340 - aiogram.event - INFO - Update id=17225343 is handled. Duration 414 ms by bot id=8657418981
+2026-03-10 19:53:15,978 - aiogram.event - INFO - Update id=17225344 is handled. Duration 424 ms by bot id=8657418981
+2026-03-10 19:53:36,452 - aiogram.event - INFO - Update id=17225345 is handled. Duration 426 ms by bot id=8657418981
+2026-03-10 19:53:55,193 - aiogram.event - INFO - Update id=17225346 is handled. Duration 392 ms by bot id=8657418981
+2026-03-10 19:55:24,562 - aiogram.event - INFO - Update id=17225347 is handled. Duration 1 ms by bot id=8657418981
+2026-03-10 19:55:50,352 - aiogram.event - INFO - Update id=17225348 is handled. Duration 2 ms by bot id=8657418981
+2026-03-10 19:55:50,353 - aiogram.event - INFO - Update id=17225349 is handled. Duration 3 ms by bot id=8657418981
+2026-03-10 19:56:12,344 - aiogram.event - INFO - Update id=17225350 is handled. Duration 153 ms by bot id=8657418981
+2026-03-10 19:56:18,863 - aiogram.event - INFO - Update id=17225351 is handled. Duration 221 ms by bot id=8657418981
+2026-03-10 19:56:24,921 - aiogram.event - INFO - Update id=17225352 is handled. Duration 464 ms by bot id=8657418981
+2026-03-10 19:57:53,082 - aiogram.dispatcher - INFO - Polling stopped
+2026-03-10 19:57:53,084 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-10 19:57:53,085 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8657418981)
+2026-03-10 19:57:53,338 - __main__ - INFO - Сессия бота закрыта.
+2026-03-10 19:57:53,339 - aiogram.dispatcher - INFO - Polling stopped for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 19:58:04,450 - __main__ - INFO - Запуск бота...
+2026-03-10 19:58:04,458 - __main__ - INFO - База данных инициализирована.
+2026-03-10 19:58:05,149 - __main__ - INFO - Polling запущен.
+2026-03-10 19:58:05,150 - aiogram.dispatcher - INFO - Start polling
+2026-03-10 19:58:05,220 - aiogram.dispatcher - INFO - Run polling for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 19:58:09,447 - aiogram.event - INFO - Update id=17225353 is handled. Duration 307 ms by bot id=8657418981
+2026-03-10 19:58:42,513 - aiogram.dispatcher - INFO - Polling stopped
+2026-03-10 19:58:42,515 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-10 19:58:42,516 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8657418981)
+2026-03-10 19:58:42,768 - __main__ - INFO - Сессия бота закрыта.
+2026-03-10 19:58:42,769 - aiogram.dispatcher - INFO - Polling stopped for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 19:59:56,363 - __main__ - INFO - Запуск бота...
+2026-03-10 19:59:56,374 - __main__ - INFO - База данных инициализирована.
+2026-03-10 19:59:57,055 - __main__ - INFO - Polling запущен.
+2026-03-10 19:59:57,056 - aiogram.dispatcher - INFO - Start polling
+2026-03-10 19:59:57,125 - aiogram.dispatcher - INFO - Run polling for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:00:01,599 - aiogram.event - INFO - Update id=17225354 is handled. Duration 1110 ms by bot id=8657418981
+2026-03-10 20:04:40,456 - aiogram.dispatcher - INFO - Polling stopped
+2026-03-10 20:04:40,457 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-10 20:04:40,457 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8657418981)
+2026-03-10 20:04:40,601 - aiogram.dispatcher - INFO - Polling stopped for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:04:40,602 - __main__ - INFO - Сессия бота закрыта.
+2026-03-10 20:04:46,033 - __main__ - INFO - Запуск бота...
+2026-03-10 20:04:46,045 - __main__ - INFO - База данных инициализирована.
+2026-03-10 20:04:46,781 - __main__ - INFO - Polling запущен.
+2026-03-10 20:04:46,782 - aiogram.dispatcher - INFO - Start polling
+2026-03-10 20:04:46,851 - aiogram.dispatcher - INFO - Run polling for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:05:00,762 - aiogram.event - INFO - Update id=17225355 is handled. Duration 415 ms by bot id=8657418981
+2026-03-10 20:05:07,458 - aiogram.event - INFO - Update id=17225356 is handled. Duration 419 ms by bot id=8657418981
+2026-03-10 20:06:02,174 - aiogram.dispatcher - INFO - Polling stopped
+2026-03-10 20:06:02,176 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-10 20:06:02,176 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8657418981)
+2026-03-10 20:06:02,352 - aiogram.dispatcher - INFO - Polling stopped for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:06:02,353 - __main__ - INFO - Сессия бота закрыта.
+2026-03-10 20:06:08,318 - __main__ - INFO - Запуск бота...
+2026-03-10 20:06:08,332 - __main__ - INFO - База данных инициализирована.
+2026-03-10 20:06:09,320 - __main__ - INFO - Polling запущен.
+2026-03-10 20:06:09,321 - aiogram.dispatcher - INFO - Start polling
+2026-03-10 20:06:09,396 - aiogram.dispatcher - INFO - Run polling for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:06:12,316 - aiogram.event - INFO - Update id=17225357 is handled. Duration 445 ms by bot id=8657418981
+2026-03-10 20:06:18,205 - aiogram.event - INFO - Update id=17225358 is handled. Duration 178 ms by bot id=8657418981
+2026-03-10 20:08:37,241 - aiogram.dispatcher - INFO - Polling stopped
+2026-03-10 20:08:37,243 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-10 20:08:37,244 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8657418981)
+2026-03-10 20:08:37,408 - aiogram.dispatcher - INFO - Polling stopped for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:08:37,409 - __main__ - INFO - Сессия бота закрыта.
+2026-03-10 20:08:43,447 - __main__ - INFO - Запуск бота...
+2026-03-10 20:08:43,456 - __main__ - INFO - База данных инициализирована.
+2026-03-10 20:08:44,071 - __main__ - INFO - Polling запущен.
+2026-03-10 20:08:44,072 - aiogram.dispatcher - INFO - Start polling
+2026-03-10 20:08:44,145 - aiogram.dispatcher - INFO - Run polling for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:08:51,620 - aiogram.event - INFO - Update id=17225359 is handled. Duration 314 ms by bot id=8657418981
+2026-03-10 20:08:57,156 - aiogram.event - INFO - Update id=17225360 is handled. Duration 525 ms by bot id=8657418981
+2026-03-10 20:09:22,968 - aiogram.event - INFO - Update id=17225361 is handled. Duration 401 ms by bot id=8657418981
+2026-03-10 20:09:35,505 - aiogram.dispatcher - INFO - Polling stopped
+2026-03-10 20:09:35,507 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-10 20:09:35,507 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8657418981)
+2026-03-10 20:09:35,762 - __main__ - INFO - Сессия бота закрыта.
+2026-03-10 20:09:35,764 - aiogram.dispatcher - INFO - Polling stopped for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:09:46,628 - __main__ - INFO - Запуск бота...
+2026-03-10 20:09:46,710 - __main__ - INFO - База данных инициализирована.
+2026-03-10 20:09:47,326 - __main__ - INFO - Polling запущен.
+2026-03-10 20:09:47,327 - aiogram.dispatcher - INFO - Start polling
+2026-03-10 20:09:47,397 - aiogram.dispatcher - INFO - Run polling for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:09:50,254 - aiogram.event - INFO - Update id=17225362 is handled. Duration 430 ms by bot id=8657418981
+2026-03-10 20:09:56,383 - aiogram.event - INFO - Update id=17225363 is handled. Duration 107 ms by bot id=8657418981
+2026-03-10 20:10:01,546 - aiogram.event - INFO - Update id=17225364 is handled. Duration 796 ms by bot id=8657418981
+2026-03-10 20:10:37,360 - aiogram.dispatcher - INFO - Polling stopped
+2026-03-10 20:10:37,362 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-10 20:10:37,362 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8657418981)
+2026-03-10 20:10:37,625 - __main__ - INFO - Сессия бота закрыта.
+2026-03-10 20:10:37,627 - aiogram.dispatcher - INFO - Polling stopped for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:10:44,880 - __main__ - INFO - Запуск бота...
+2026-03-10 20:10:44,889 - __main__ - INFO - База данных инициализирована.
+2026-03-10 20:10:45,551 - __main__ - INFO - Polling запущен.
+2026-03-10 20:10:45,551 - aiogram.dispatcher - INFO - Start polling
+2026-03-10 20:10:45,620 - aiogram.dispatcher - INFO - Run polling for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:10:48,044 - aiogram.event - INFO - Update id=17225365 is not handled. Duration 1 ms by bot id=8657418981
+2026-03-10 20:10:51,680 - aiogram.event - INFO - Update id=17225366 is not handled. Duration 1 ms by bot id=8657418981
+2026-03-10 20:10:56,085 - aiogram.event - INFO - Update id=17225367 is handled. Duration 412 ms by bot id=8657418981
+2026-03-10 20:11:28,068 - aiogram.event - INFO - Update id=17225368 is not handled. Duration 1 ms by bot id=8657418981
+2026-03-10 20:13:01,020 - aiogram.dispatcher - INFO - Polling stopped
+2026-03-10 20:13:01,022 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-10 20:13:01,022 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8657418981)
+2026-03-10 20:13:01,277 - __main__ - INFO - Сессия бота закрыта.
+2026-03-10 20:13:01,279 - aiogram.dispatcher - INFO - Polling stopped for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:13:16,516 - __main__ - INFO - Запуск бота...
+2026-03-10 20:13:16,522 - __main__ - INFO - База данных инициализирована.
+2026-03-10 20:13:17,136 - __main__ - INFO - Polling запущен.
+2026-03-10 20:13:17,137 - aiogram.dispatcher - INFO - Start polling
+2026-03-10 20:13:17,205 - aiogram.dispatcher - INFO - Run polling for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:13:21,326 - aiogram.event - INFO - Update id=17225369 is not handled. Duration 0 ms by bot id=8657418981
+2026-03-10 20:13:35,758 - aiogram.event - INFO - Update id=17225370 is not handled. Duration 0 ms by bot id=8657418981
+2026-03-10 20:13:38,010 - aiogram.event - INFO - Update id=17225371 is not handled. Duration 0 ms by bot id=8657418981
+2026-03-10 20:13:54,474 - aiogram.dispatcher - INFO - Polling stopped
+2026-03-10 20:13:54,475 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-10 20:13:54,475 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8657418981)
+2026-03-10 20:13:54,729 - __main__ - INFO - Сессия бота закрыта.
+2026-03-10 20:13:54,730 - aiogram.dispatcher - INFO - Polling stopped for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:14:00,083 - __main__ - INFO - Запуск бота...
+2026-03-10 20:14:00,087 - __main__ - INFO - База данных инициализирована.
+2026-03-10 20:14:00,704 - __main__ - INFO - Polling запущен.
+2026-03-10 20:14:00,704 - aiogram.dispatcher - INFO - Start polling
+2026-03-10 20:14:00,779 - aiogram.dispatcher - INFO - Run polling for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:14:06,188 - aiogram.event - INFO - Update id=17225372 is not handled. Duration 0 ms by bot id=8657418981
+2026-03-10 20:14:15,791 - aiogram.event - INFO - Update id=17225373 is not handled. Duration 1 ms by bot id=8657418981
+2026-03-10 20:14:22,518 - aiogram.event - INFO - Update id=17225374 is not handled. Duration 1 ms by bot id=8657418981
+2026-03-10 20:14:43,743 - aiogram.dispatcher - INFO - Polling stopped
+2026-03-10 20:14:43,745 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-10 20:14:43,746 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8657418981)
+2026-03-10 20:14:44,002 - __main__ - INFO - Сессия бота закрыта.
+2026-03-10 20:14:44,004 - aiogram.dispatcher - INFO - Polling stopped for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:14:49,364 - __main__ - INFO - Запуск бота...
+2026-03-10 20:14:49,374 - __main__ - INFO - База данных инициализирована.
+2026-03-10 20:14:50,033 - __main__ - INFO - Polling запущен.
+2026-03-10 20:14:50,034 - aiogram.dispatcher - INFO - Start polling
+2026-03-10 20:14:50,105 - aiogram.dispatcher - INFO - Run polling for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
+2026-03-10 20:14:54,277 - aiogram.event - INFO - Update id=17225375 is not handled. Duration 0 ms by bot id=8657418981
+2026-03-10 20:14:57,635 - aiogram.event - INFO - Update id=17225376 is not handled. Duration 0 ms by bot id=8657418981
+2026-03-10 20:15:10,424 - aiogram.event - INFO - Update id=17225377 is not handled. Duration 0 ms by bot id=8657418981
+2026-03-10 20:15:13,599 - aiogram.event - INFO - Update id=17225378 is not handled. Duration 1 ms by bot id=8657418981
+2026-03-10 20:15:27,362 - aiogram.dispatcher - INFO - Polling stopped
+2026-03-10 20:15:27,364 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-10 20:15:27,365 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8657418981)
+2026-03-10 20:15:27,622 - __main__ - INFO - Сессия бота закрыта.
+2026-03-10 20:15:27,624 - aiogram.dispatcher - INFO - Polling stopped for bot @test_dorstroy_bot id=8657418981 - 'test_dorstroy'
